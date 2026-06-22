@@ -1,0 +1,65 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Unity generated
+SysInfo-AssetBundles/
+sysinfo.txt
+
+# Visual Studio
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.booproj
+*.suo
+*.sdf
+*.user
+*.vs/
+.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+**/.idea/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Gradle
+.gradle/
+**/gradle/
+**/build/
+
+# Android
+local.properties
+*.apk
+*.aab
+
+# iOS
+*.ipa
+*.dSYM.zip
+*.dSYM

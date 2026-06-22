@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 992fa06439e0c034e95e4cc13a61a335
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plane: {fileID: 129336, guid: f3327a3592be59845a5b209afb4d6061, type: 2}
+  - wall: {fileID: 134892, guid: 3f461dd51ea87534db50d78b24547a53, type: 2}
+  - obstacle: {fileID: 108812, guid: 4ee6318060374f0408817fb1a728ec1e, type: 2}
+  - magnet: {fileID: 164306, guid: 40d7a98ff7ac0ac479cb1fadc03bd8fb, type: 2}
+  - train: {fileID: 130012, guid: 7819ad1609422954a974ec4fa826c3fc, type: 2}
+  - coin: {fileID: 164836, guid: bf27080c10ec60a428b8c2f3e251e467, type: 2}
+  - shoe: {fileID: 181982, guid: bfbf0bc74242b6b449715709d525d323, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
